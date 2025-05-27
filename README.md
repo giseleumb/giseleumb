@@ -1,6 +1,7 @@
 ## 👩‍💻 Analista de Qualidade de Software | Cofundadora Developer Girls
 
-Experiência em testes manuais, elaboração de casos de teste, integração, validação de requisitos e UX/UI. Cofundadora do Developer Girls, engajando, inspirando e capacitando pessoas na tecnologia!
+Experiência em testes manuais, elaboração de casos de teste, integração, validação de requisitos e UX/UI. 
+Cofundadora do Developer Girls, engajando, inspirando e capacitando pessoas na tecnologia!
 
 ### 🚀 Minhas habilidades principais:
 
