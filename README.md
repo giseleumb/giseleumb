@@ -22,4 +22,4 @@
 Crescer na área de Qualidade de Software, aprimorando meus conhecimentos em testes, automação, processos ágeis e visão analítica para garantir produtos eficientes, acessíveis e confiáveis.
 
 📬 **Vamos nos conectar?**  
-[LinkedIn](https://www.linkedin.com/in/giselebpr)
+[LinkedIn](https://www.linkedin.com/in/gisele-barbosa-/)
